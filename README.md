@@ -39,7 +39,8 @@ If your recipe has multiple parts, use sub-recipes below the description section
 ### Branches
 - `main` - all finalized recipes go into this branch
 - `develop` - work-in-progress/experimental recipes go here
-- `username/<any-versioning-format>` - track your personal recipe, by version
+
+For experimentation, creating PRs, e.t.c, fork the repo and create PRs
 
 ### Pull Requests
 If you're confident about your recipe to go into `develop`/`master`, create a PR from your branch to the destination branch. 
